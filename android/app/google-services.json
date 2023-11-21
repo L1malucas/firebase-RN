@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180788054452",
+    "project_id": "testefirebase-fee08",
+    "storage_bucket": "testefirebase-fee08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180788054452:android:0b87c037eca4ff2c370ae1",
+        "android_client_info": {
+          "package_name": "com.renovamobile.testefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLs-p6D5kOUUqFpi_BGX-ZdaDlK4W7eLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
