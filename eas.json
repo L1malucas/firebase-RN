@@ -3,7 +3,7 @@
     "version": ">= 5.7.0"
   },
   "build": {
-    "development": {
+    "production": {
       "distribution": "internal",
       "android": {
         "gradleCommand": ":app:assembleDebug"
@@ -15,7 +15,7 @@
     "preview": {
       "distribution": "internal"
     },
-    "production": {}
+    "development": {}
   },
   "submit": {
     "production": {}
